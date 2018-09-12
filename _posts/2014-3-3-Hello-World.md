@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Movie Revenue Prediction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The movie industry is huge income generator in the entertainment industry, there are many variables that contribute to how successful a movie is, but it's hard to understand how these variables work.
+
+This project aims to predict movie box-office based on genre, director(s), actor(s)/actress(es), release date, rating (R, PG13...), average user ratings from IMDB and popularity (number of votes).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
